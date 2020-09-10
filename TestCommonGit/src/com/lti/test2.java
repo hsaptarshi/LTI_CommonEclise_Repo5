@@ -1,0 +1,11 @@
+package com.lti;
+
+public class test2 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("File 2 Created!!");
+
+	}
+
+}
