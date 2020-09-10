@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Test Common Project.....");
+		System.out.println("Test Common Project!");
 
 	}
 
